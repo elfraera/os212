@@ -1,5 +1,5 @@
 ---
-layout: "layout"
+layout: "Github Page"
 ---
 
 Hello everyone!
