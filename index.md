@@ -2,9 +2,9 @@
 layout: "layout"
 ---
 
-Hallo Hallo Bandung!
+Hello everyone!
 
-This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+This is My Github Page and I am Elfraera Winson
 
-Qapl[a!](SandBox/)
+(SandBox/)
 
