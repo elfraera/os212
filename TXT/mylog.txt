@@ -1,4 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 50 L03 GitHub related
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 15 L01 SCELE/Discord related
+ZCZC W00 150 L02 ZOOM meetings related
+ZCZC W00 45 L03 GitHub related
+ZCZC W00 180 L04 Exploring GitHub Pages
+ZCZC W00 55 L05 Quiz preparation
+ZCZC W00 65 L31 Installing and exploring VirtualBox
