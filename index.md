@@ -6,5 +6,5 @@ elfraera's Operating System Repository
 * [Log](https://elfraera.github.io/os212/TXT/mylog.txt)
 <br>
 * [Links](https://elfraera.github.io/os212/links.md/)
-<br>
-## Hello :D
+
+# Hello :D
