@@ -1,4 +1,3 @@
-README.md
 # Index
 elfraera's Operating System Repository
 
