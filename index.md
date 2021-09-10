@@ -1,10 +1,11 @@
-## os212
+README.md
+# Index
 elfraera's Operating System Repository
 
-[GitHub](https://github.com/elfraera)
+* [GitHub](https://github.com/elfraera)
 <br>
-[Log](https://elfraera.github.io/os212/TXT/mylog.txt)
+* [Log](https://elfraera.github.io/os212/TXT/mylog.txt)
 <br>
-[Links](https://elfraera.github.io/os212/links.md/)
+* [Links](https://elfraera.github.io/os212/links.md/)
 <br>
 ### Hello :D
