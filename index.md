@@ -7,4 +7,4 @@ elfraera's Operating System Repository
 <br>
 * [Links](https://elfraera.github.io/os212/links.md/)
 
-# Hello :D
+## Hello :D
