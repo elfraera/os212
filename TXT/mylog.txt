@@ -8,5 +8,10 @@ ZCZC W00 45 L03 GitHub related
 ZCZC W00 180 L04 Exploring GitHub Pages
 ZCZC W00 55 L05 Quiz preparation
 ZCZC W00 65 L31 Installing and exploring VirtualBox
+ZCZC W00 15 L09 Assignment in General
+ZCZC W00 60 L10 Assignment #00
 ZCZC W01 200 L02 ZOOM meetings related
 ZCZC W01 420 L11 Assignment #01
+ZCZC W01 30 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W01 30 L28 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 75 L21 Trying something: Installing Kali Linux in my old Ubuntu laptop (using Virtualbox)
