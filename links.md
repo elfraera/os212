@@ -1,3 +1,8 @@
+---
+layout: "layout"
+permalink: /LINKS/
+---
+
 # _elfraera's_ OS212 Links
 (sorry of the inconvenience, this website is still in development)
 
