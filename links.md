@@ -7,15 +7,15 @@ permalink: /LINKS/
 (sorry of the inconvenience, this website is under development)
 
 ## Week 00
-1. Create Github Account :
-2. Create Github Page :
-3. Update Log :
+1. Creating Github Account :
+2. Creating Github Page :
+3. Updating Log :
 
 ## Week 01
-1. Install Virtualbox :
-2. Install Putty and WinSCP :
-3. Install Debian by Importing the OVA File :
-4. Set up the Debian :
+1. Installing Virtualbox :
+2. Installing Putty and WinSCP :
+3. Installing Debian by Importing the OVA File :
+4. Setting up the Debian :
 
 ## Week 02
 
