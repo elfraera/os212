@@ -4,11 +4,18 @@ permalink: /LINKS/
 ---
 
 # _elfraera's_ OS212 Links
-(sorry of the inconvenience, this website is still in development)
+(sorry of the inconvenience, this website is under development)
 
 ## Week 00
+1. Create Github Account :
+2. Create Github Page :
+3. Update Log :
 
-## Week 01 
+## Week 01
+1. Install Virtualbox :
+2. Install Putty and WinSCP :
+3. Install Debian by Importing the OVA File :
+4. Set up the Debian :
 
 ## Week 02
 
