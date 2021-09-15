@@ -8,21 +8,12 @@ ZCZC W00 45 L03 GitHub related
 ZCZC W00 180 L04 Exploring GitHub Pages
 ZCZC W00 55 L05 Quiz preparation
 ZCZC W00 05 L09 Assignment in General
-ZCZC W00 05 L11 Assignment #01
-ZCZC W00 05 L12 Assignment #02
-ZCZC W00 10 L13 Assignment #03
-ZCZC W00 05 L14 Assignment #04
-ZCZC W00 30 L15 Assignment #05
+ZCZC W00 55 L10 Assignment #00
 ZCZC W00 45 L31 Installing and exploring VirtualBox
 ZCZC W01 200 L02 ZOOM meetings related
-ZCZC W01 10 L11 Assignment #01
-ZCZC W01 15 L12 Assignment #02
-ZCZC W01 60 L13 Assignment #03
-ZCZC W01 20 L14 Assignment #04
-ZCZC W01 15 L15 Assignment #05
-ZCZC W01 45 L16 Assignment #06
-ZCZC W01 10 L17 Assignment #07
-ZCZC W01 25 L18 Assignment #08
-ZCZC W01 25 L19 Assignment #09
+ZCZC W01 240 L11 Assignment #01
 ZCZC W01 20 L28 SSH, key-gen, tunneling, putty, winscp
 ZCZC W01 75 L21 Trying something: Installing and Setting up Kali Linux in my old Ubuntu laptop (using Virtualbox)
+ZCZC W02 200 L02 ZOOM meetings related
+ZCZC W02 50 L27 GnuPG, key-gen, encrypt/decrypt
+ZCZC W02 60 L12 Assignment #02
