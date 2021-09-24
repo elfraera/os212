@@ -17,3 +17,5 @@ ZCZC W01 75 L21 Trying something: Installing and Setting up Kali Linux in my old
 ZCZC W02 200 L02 ZOOM meetings related
 ZCZC W02 50 L27 GnuPG, key-gen, encrypt/decrypt
 ZCZC W02 60 L12 Assignment #02
+ZCZC W03 200 L02 ZOOM meetings related
+ZCZC W03 60 L13 Assignment #03
