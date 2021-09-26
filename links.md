@@ -24,6 +24,8 @@ from Googling Sana Sini
 3. Cybersecurity Problems : https://www.jigsawacademy.com/blogs/cyber-security/challenges-of-cyber-security/
 
 ## Week 03
+1. Creating Extra Virtual Disk : https://computingforgeeks.com/how-to-add-extra-hard-disk-to-virtualbox-vm-and-set-automount/
+2. Running .sh File : https://www.cyberciti.biz/faq/run-execute-sh-shell-script/
 
 ## Week 04
 
