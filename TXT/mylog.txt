@@ -19,3 +19,7 @@ ZCZC W02 50 L27 GnuPG, key-gen, encrypt/decrypt
 ZCZC W02 60 L12 Assignment #02
 ZCZC W03 200 L02 ZOOM meetings related
 ZCZC W03 60 L13 Assignment #03
+ZCZC W04 200 L02 ZOOM meetings related
+ZCZC W04 40 L14 Assignment #04
+ZCZC W04 20 L23 Linux CLI including tar, etc.
+ZCZC W04 50 L26 C-language
