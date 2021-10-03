@@ -28,6 +28,7 @@ from Googling Sana Sini
 2. Running .sh File : https://www.cyberciti.biz/faq/run-execute-sh-shell-script/
 
 ## Week 04
+1. About Pointers in C : https://www.tutorialspoint.com/cprogramming/c_pointers.htm
 
 ## Week 05
 
