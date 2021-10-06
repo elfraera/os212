@@ -31,6 +31,7 @@ from Googling Sana Sini
 1. About Pointers in C : https://www.tutorialspoint.com/cprogramming/c_pointers.htm
 
 ## Week 05
+1. About Logical and Physical Address : https://www.youtube.com/watch?v=XqusPn2oxwk
 
 ## Week 06
 
