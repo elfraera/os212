@@ -34,6 +34,7 @@ from Googling Sana Sini
 1. About Logical and Physical Address : https://www.youtube.com/watch?v=XqusPn2oxwk
 
 ## Week 06
+1. About fork(), etc : https://www.geeksforgeeks.org/fork-system-call/
 
 ## Week 07
 
