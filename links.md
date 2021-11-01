@@ -37,6 +37,7 @@ from Googling Sana Sini
 1. About fork(), etc : https://www.geeksforgeeks.org/fork-system-call/
 
 ## Week 07
+1. About hexdump : https://opensource.com/article/19/8/dig-binary-files-hexdump
 
 ## Week 08
 

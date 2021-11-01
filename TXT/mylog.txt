@@ -27,5 +27,7 @@ ZCZC W05 200 L02 ZOOM meetings related
 ZCZC W05 30 L26 C-language
 ZCZC W05 60 L15 Assignment #05
 ZCZC W06 200 L02 ZOOM meetings related
-ZCZC W06 50 L15 Assignment #06
-
+ZCZC W06 50 L16 Assignment #06
+ZCZC W07 150 L02 ZOOM meetings related
+ZCZC W07 70 L17 Assignment #07
+ZCZC W07 30 L05 Quiz related
