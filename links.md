@@ -40,6 +40,8 @@ from Googling Sana Sini
 1. About hexdump : https://opensource.com/article/19/8/dig-binary-files-hexdump
 
 ## Week 08
+1. CPU Scheduling : https://www.youtube.com/watch?v=EWkQl0n0w5M
+2. CPU and I/O Burst Cycles : https://www.youtube.com/watch?v=pVzb3TUcDLo
 
 ## Week 09
 

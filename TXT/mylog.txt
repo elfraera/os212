@@ -31,3 +31,6 @@ ZCZC W06 50 L16 Assignment #06
 ZCZC W07 150 L02 ZOOM meetings related
 ZCZC W07 70 L17 Assignment #07
 ZCZC W07 30 L05 Quiz related
+ZCZC W08 720 L18 Assignment #08
+ZCZC W08 25 L05 Quiz related
+ZCZC W08 100 L02 ZOOM meetings related
